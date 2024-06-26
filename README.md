@@ -33,7 +33,7 @@ Clone the repository and compile the code using the provided Makefile.
 
 ```bash
 git clone https://github.com/aragakerubo/3d-maze-game.git
-cd maze-project
+cd 3d-maze-game
 make
 ```
 
@@ -42,7 +42,7 @@ make
 After compiling, you can run the game with the following command:
 
 ```bash
-./maze_game
+./3d_maze_game
 ```
 
 ## Controls
@@ -58,7 +58,7 @@ After compiling, you can run the game with the following command:
 ## Project Structure
 
 ```
-maze-project/
+3d-maze-game/
 ├── src/
 │   ├── game.c
 │   ├── main.c
