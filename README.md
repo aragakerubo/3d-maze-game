@@ -68,7 +68,7 @@ maze-project/
 │   ├── game.h
 │   ├── raycasting.h
 │   └── utils.h
-└── images
+└── images/
 └── README.md
 └── Makefile
 ```
