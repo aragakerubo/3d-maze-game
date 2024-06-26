@@ -32,7 +32,7 @@ sudo apt-get install libsdl2-dev
 Clone the repository and compile the code using the provided Makefile.
 
 ```bash
-git clone https://github.com/aragakerubo/maze-project.git
+git clone https://github.com/aragakerubo/3d-maze-game.git
 cd maze-project
 make
 ```
