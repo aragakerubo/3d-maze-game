@@ -10,6 +10,7 @@ This project is a simple 3D maze game using SDL2 and raycasting. The goal is to 
 -   [Running the Game](#running-the-game)
 -   [Controls](#controls)
 -   [Project Structure](#project-structure)
+-   [Tasks](#tasks)
 -   [Future Enhancements](#future-enhancements)
 
 ## Requirements
